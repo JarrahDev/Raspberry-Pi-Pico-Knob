@@ -15,4 +15,4 @@ ANSWERS:
 2)This code has 3 basic modes --> 1st is Volume 
 2nd is screen brightness and the 3rd one emulates the left and right arrow keys (very useful while editing a video/audio in editor/DAW as well as rewinding or fast-forwarding video/audio). 
 
-3)Yes this code is fully customizable and shareable (you can mention me but it is not required) There are even some customizable parts of the code. For example, you can set a long press to any keyboard shortcut ctrl + alt + delete or win + r, or even custom ones like ctrl + alt + f (which is set to by default)
+3)Yes this code is fully customizable and shareable (you can mention me but it is not required) There are even some customizable parts of the code. For example, you can set a long press to any keyboard shortcut ctrl + alt + delete or win + r, or even custom ones like ctrl + alt + h (which is set to by default)
