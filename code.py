@@ -51,7 +51,7 @@ def ccw():
     elif(currentMode == 2):
         keyboard.press(Keycode.LEFT_ARROW)
         keyboard.release_all()
-        #Horizontal scroll left - Adobe Premiere Pro
+        #Horizontal scroll left
         
 #Defining the clockwise scroll by the modes
 
@@ -66,12 +66,12 @@ def cw():
     elif(currentMode == 2):
         keyboard.press(Keycode.RIGHT_ARROW)
         keyboard.release_all()
-        #Horizontal scroll right - Adobe Premiere Pro
+        #Horizontal scroll right 
         
 #Defining the long press function, using custom keyboard shortcut to simply turn off the computer
 
 def long_press():
-    keyboard.press(Keycode.LEFT_CONTROL, Keycode.ALT, Keycode.F)
+    keyboard.press(Keycode.LEFT_CONTROL, Keycode.ALT, Keycode.H)
     keyboard.release_all()
     
 #Making while loop to make all things work together
